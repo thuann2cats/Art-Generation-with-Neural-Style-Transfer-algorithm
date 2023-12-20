@@ -1,4 +1,4 @@
-In this [experiment](G_Image_segmentation_Unet.ipynb), I implemented the neural style transfer algorithm, with the starting code, instructions, and utility functions from the [Convolutional Neural Networks](https://coursera.org/learn/convolutional-neural-networks) course (by DeepLearning.AI on Coursera). The algorithm was introduced by [Gatys et al. (2015).](https://arxiv.org/abs/1508.06576)
+In this [experiment](G_Art_Generation_with_Neural_Style_Transfer.ipynb), I implemented the neural style transfer algorithm, with the starting code, instructions, and utility functions from the [Convolutional Neural Networks](https://coursera.org/learn/convolutional-neural-networks) course (by DeepLearning.AI on Coursera). The algorithm was introduced by [Gatys et al. (2015).](https://arxiv.org/abs/1508.06576)
 
 This algorithm merges a "content" image and a "style" image to create a generated image that has content similar to the "content image" but in the style of the "style image":
 
