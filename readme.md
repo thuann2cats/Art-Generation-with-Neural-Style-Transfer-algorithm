@@ -4,6 +4,8 @@ This algorithm merges a "content" image and a "style" image to create a generate
 
 ![louvre_generated.png](images%2Flouvre_generated.png)
 
+(Please note that the dataset is excluded from the repo due to file size limits.)
+
 # Algorithm
 
 In this exercise, I will separately feed the content and the style images into the VGG neural network (created by the University of Oxford in 2014). 
